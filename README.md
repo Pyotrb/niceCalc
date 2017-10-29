@@ -1,2 +1,3 @@
 # niceCalc
-Multipurpose calculator
+## Description
+Multi-purpose Python program used for calculations.
