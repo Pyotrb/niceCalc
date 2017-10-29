@@ -1,0 +1,2 @@
+# niceCalc
+Multipurpose calculator
